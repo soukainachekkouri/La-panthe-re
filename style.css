@@ -9,6 +9,11 @@
     font-family: helvetica;
 }
 
+.logo1 {
+    width: 20%;
+    margin-left: 38%;
+}
+
 @media (max-width: 767px) {
     .firstprez {
         font-size: 18px;
